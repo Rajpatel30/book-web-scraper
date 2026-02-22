@@ -39,4 +39,3 @@ df = pd.DataFrame(books_info)
 df.to_csv("Books_Info.csv", index=False)
 
 print("Scraping Completed and Data Saved!")
-# Added scraping.py file
