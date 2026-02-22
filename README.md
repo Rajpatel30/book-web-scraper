@@ -1,5 +1,4 @@
 # book-web-scraper
-Python web scraper to extract book data from books.toscrape.com# 📚 Book Web Scraper
 
 A Python web scraping project that extracts book data from books.toscrape.com.
 
