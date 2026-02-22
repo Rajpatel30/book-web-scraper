@@ -16,3 +16,14 @@ A Python web scraping project that extracts book data from books.toscrape.com.
 ## ▶️ How to Run
 
 1. Install dependencies:
+2. Run the script:
+   
+## 📂 Output
+Books_Info.csv file containing:
+- Name
+- Price
+- Link
+
+---
+
+Made with ❤️ for learning Web Scraping
